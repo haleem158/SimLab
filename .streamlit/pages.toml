@@ -1,0 +1,18 @@
+
+[[pages]]
+name = "token supply sim"
+path = "pages/supply_simulator.py"
+
+[[pages]]
+name = "Simulation"
+path = "pages/sim.py"
+
+[[pages]]
+name = "impact model"
+path = "pages/leem.py"
+
+
+
+[[pages]]
+name = "vesting schedule sim"
+path = "test.py"
