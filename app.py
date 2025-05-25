@@ -17,7 +17,7 @@ st.title("Welcome to SimLab")
 st.write("""
 *SimLab* is a tokenomics simulation playground for Web3 builders, analysts, and researchers.
 
-Explore how *token supply, **vesting schedules, and **price-impact models* interact with your protocol’s growth assumptions.
+Explore how token supply, vesting schedules, and *price-impact models* interact with your protocol’s growth assumptions.
 
 Use our simulation modules to *stress test your token model, incentive programs, and market dynamics — all in one place*.
 
