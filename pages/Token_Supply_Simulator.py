@@ -172,8 +172,8 @@ def monte_carlo_simulation(params, runs=50):
 # Streamlit UI
 # ----------------------
 
-st.set_page_config(page_title="SimLab — Tokenomics Simulator (v2)", layout="wide")
-st.title("SimLab — Token Supply Simulator (Economically sound)")
+st.set_page_config(page_title="SimLab — Tokenomics Simulator", layout="wide")
+st.title("SimLab — Token Supply Simulator")
 
 with st.sidebar:
     st.header("Base parameters")

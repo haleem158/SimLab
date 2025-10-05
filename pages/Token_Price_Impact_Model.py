@@ -6,9 +6,9 @@ import matplotlib.pyplot as plt
 from io import StringIO, BytesIO
 import json
 
-st.set_page_config(page_title="SimLab - Token Price Impact Model (Sound)", layout="wide")
+st.set_page_config(page_title="SimLab - Token Price Impact Model", layout="wide")
 
-st.title("🧮 SimLab — Token Price Impact Model (Mathematically & Economically Sound)")
+st.title("🧮 SimLab — Token Price Impact Model")
 
 st.markdown("""
 This app computes an **indicative token price proxy** by constructing a demand *level* from baseline volume and growth,

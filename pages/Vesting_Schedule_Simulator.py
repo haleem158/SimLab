@@ -18,9 +18,9 @@ import pandas as pd
 import matplotlib.pyplot as plt
 from copy import deepcopy
 
-st.set_page_config(layout="wide", page_title="SimLab - Vesting Schedule Simulator (Sound)")
+st.set_page_config(layout="wide", page_title="SimLab - Vesting Schedule Simulator")
 
-st.title("SimLab — Vesting Schedule Simulator (Mathematically & Economically Sound)")
+st.title("SimLab — Vesting Schedule Simulator")
 
 # -------------------------
 # Global inputs
